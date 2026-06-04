@@ -1,0 +1,28 @@
+{
+  "commands": [
+    {
+      "name": "toggle-captions",
+      "description": "Toggle captions on/off",
+      "suggested_key": {
+        "default": "Ctrl+Shift+C",
+        "mac": "Command+Shift+C"
+      }
+    },
+    {
+      "name": "toggle-translation",
+      "description": "Toggle audio translation on/off",
+      "suggested_key": {
+        "default": "Ctrl+Shift+T",
+        "mac": "Command+Shift+T"
+      }
+    },
+    {
+      "name": "toggle-extension",
+      "description": "Open LinguaFlow popup",
+      "suggested_key": {
+        "default": "Ctrl+Shift+L",
+        "mac": "Command+Shift+L"
+      }
+    }
+  ]
+}
